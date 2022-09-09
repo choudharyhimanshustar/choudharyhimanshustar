@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**choudharyhimanshustar/choudharyhimanshustar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+- Pursuing Bachelor's Degree in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+- Fond of learning new technological stuffs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Writes articles on **Hashnode**.
+
+- Works with C++, HTML, Javascript, Bootstrap, Jquery , Nodejs.
+
+## Languages
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="5%" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" />
+</div>
+
+## Framework
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="5%" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" />     
+</div>
+
+## Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%" />
+          
