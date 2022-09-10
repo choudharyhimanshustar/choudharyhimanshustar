@@ -29,4 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%" />
           
 ## Contact Me
+<a href="https://www.instagram.com/himanshuch3003/">
 <img src="https://img.shields.io/badge/-Instagram-yellow?logo=Instagram&logoColor=#E4405F" width="12.5%" />
+</a>
