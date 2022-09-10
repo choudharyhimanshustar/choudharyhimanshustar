@@ -30,5 +30,13 @@
           
 ## Contact Me
 <a href="https://www.instagram.com/himanshuch3003/">
-<img src="https://img.shields.io/badge/-Instagram-yellow?logo=Instagram&logoColor=#E4405F" width="12.5%" />
+<img src="https://img.shields.io/badge/-Instagram-9cf?logo=Instagram&logoColor=#E4405F" width="12.5%" />
 </a>
+<a href="https://webdevu.hashnode.dev/">
+ <img src="https://img.shields.io/badge/Hashnode-blue?logo=Hashnode&logoColor=#2962FF" width="12.5%" />
+</a>
+
+## Stats
+![My personal GitHub Stats](https://github-readme-stats.vercel.app/api?username=choudharyhimanshustar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![My personal Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choudharyhimanshustar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![My personal Activity Graph](https://activity-graph.herokuapp.com/graph?username=choudharyhimanshustar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
