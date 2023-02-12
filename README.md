@@ -5,9 +5,7 @@
 
 - Fond of learning new technological stuffs.
 
-- Writes articles on **Hashnode**.
-
-- Works with C++, HTML, Javascript, Bootstrap, Jquery , Nodejs.
+- Works with C++, HTML, Javascript, Bootstrap, Jquery , Nodejs , React.
 
 ## Languages
 <div>
