@@ -37,4 +37,3 @@
 ## Stats
 ![My personal GitHub Stats](https://github-readme-stats.vercel.app/api?username=choudharyhimanshustar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![My personal Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choudharyhimanshustar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-![My personal Activity Graph](https://activity-graph.herokuapp.com/graph?username=choudharyhimanshustar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
