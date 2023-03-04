@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-Instagram-9cf?logo=Instagram&logoColor=#E4405F" width="12.5%" />
 </a>
 <a href="https://www.linkedin.com/in/choudhary-himanshu-60615625a/">
- <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=#2962FF" width="12.5%" />
+ <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=#2962FF" width="11.5%" />
 </a>
 
 ## Stats
