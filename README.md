@@ -25,6 +25,7 @@
 
 ## Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="5%" />
           
 ## Contact Me
 <a href="https://www.instagram.com/himanshuch3003/">
